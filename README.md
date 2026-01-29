@@ -1,4 +1,4 @@
-# Canteen Connect 🍽️
+# Canteen Connect 
 
 Canteen Connect is a full-stack web application designed to digitize and streamline the food ordering process in a college canteen. It allows students to browse a live menu, place orders, and track their order status, while enabling canteen staff to manage incoming orders, update order progress, and control menu availability through a centralized dashboard.
 
@@ -6,7 +6,7 @@ The project focuses on solving real-world inefficiencies such as long queues, or
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### Student Features
 - View dynamic canteen menu
@@ -24,7 +24,7 @@ The project focuses on solving real-world inefficiencies such as long queues, or
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React.js / HTML, CSS, JavaScript  
 - **Backend:** Node.js with Express.js  
@@ -35,7 +35,7 @@ The project focuses on solving real-world inefficiencies such as long queues, or
 
 ---
 
-## 🧠 System Architecture Overview
+##  System Architecture Overview
 
 - The frontend communicates with the backend using RESTful HTTP APIs.
 - The backend handles authentication, business logic, and data validation.
@@ -44,7 +44,7 @@ The project focuses on solving real-world inefficiencies such as long queues, or
 
 ---
 
-## 📂 Core Data Models
+##  Core Data Models
 
 ### User
 - Name
@@ -65,7 +65,7 @@ The project focuses on solving real-world inefficiencies such as long queues, or
 
 ---
 
-## 🔐 Security Considerations
+##  Security Considerations
 
 - Passwords are securely hashed
 - JWT-based authentication for protected routes
@@ -74,13 +74,13 @@ The project focuses on solving real-world inefficiencies such as long queues, or
 
 ---
 
-## 🧪 Current Status
+##  Current Status
 
 This project is under active development and represents a functional prototype demonstrating full-stack application design and implementation. Additional features and optimizations can be added to enhance scalability and user experience.
 
 ---
 
-## 🌱 Future Enhancements
+##  Future Enhancements
 
 - Online payment integration
 - Real-time updates using WebSockets
@@ -91,7 +91,7 @@ This project is under active development and represents a functional prototype d
 
 ---
 
-## 📌 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates:
 - Full-stack web development
@@ -103,7 +103,7 @@ This project demonstrates:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Soham Shinde**  
 GitHub: [SohamGits](https://github.com/SohamGits)
