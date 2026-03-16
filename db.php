@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";     // Default XAMPP username
 $pass = "";         // Default XAMPP password is empty
-$dbname = "canteen_db";
+$dbname = "******";
 
 $conn = mysqli_connect($host, $user, $pass, $dbname);
 
